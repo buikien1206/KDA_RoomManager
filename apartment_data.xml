@@ -33,4 +33,26 @@
         <dateIn>25/06/2005</dateIn>
         <account>kien</account>
     </Apartment>
+    <Apartment>
+        <id>kjsd</id>
+        <owner>ád</owner>
+        <area>34.0</area>
+        <building>A</building>
+        <floor>1</floor>
+        <status>Đã ở</status>
+        <numPeople>23</numPeople>
+        <dateIn>27/06/2025</dateIn>
+        <account>kien</account>
+    </Apartment>
+    <Apartment>
+        <id>ádhu</id>
+        <owner>âsd</owner>
+        <area>43.0</area>
+        <building>A</building>
+        <floor>3</floor>
+        <status>Đã ở</status>
+        <numPeople>43</numPeople>
+        <dateIn>27/06/2025</dateIn>
+        <account>234</account>
+    </Apartment>
 </Apartments>

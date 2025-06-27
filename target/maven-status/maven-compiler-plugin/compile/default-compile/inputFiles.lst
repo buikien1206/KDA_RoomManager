@@ -1,9 +1,12 @@
+C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\AccountDAO.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\AccountXML.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\ApartmentXML.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\InvoiceXML.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\ResidentXML.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\RoomXML.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\dao\TenantXML.java
+C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\db\ConnectionFactory.java
+C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\db\TestDB.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\manager\AccountManager.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\manager\ApartmentManager.java
 C:\Users\Admin\Downloads\KDA_RoomManager\src\main\java\com\kdatower\manager\InvoiceManager.java

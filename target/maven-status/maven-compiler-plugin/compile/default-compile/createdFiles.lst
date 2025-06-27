@@ -5,6 +5,7 @@ com\kdatower\view\LoginFrame.class
 com\kdatower\view\InvoicePanel.class
 com\kdatower\dao\TenantXML.class
 com\kdatower\model\Room.class
+com\kdatower\dao\AccountDAO.class
 com\kdatower\manager\InvoiceManager.class
 com\kdatower\model\Invoice.class
 com\kdatower\model\Apartment.class
@@ -14,6 +15,7 @@ com\kdatower\dao\AccountXML.class
 com\kdatower\dao\InvoiceXML.class
 com\kdatower\view\LoginFrame$1.class
 com\kdatower\manager\RoomManager.class
+com\kdatower\db\ConnectionFactory.class
 com\kdatower\model\Resident.class
 com\kdatower\view\LoginFrame$RoundedButton.class
 com\kdatower\view\HomePanel.class
@@ -35,4 +37,5 @@ com\kdatower\view\RegisterDialog.class
 com\kdatower\view\LoginFrame$RoundedPanel.class
 com\kdatower\view\ApartmentPanel$1.class
 com\kdatower\view\RoomPanel.class
+com\kdatower\db\TestDB.class
 com\kdatower\view\ApartmentPanel.class

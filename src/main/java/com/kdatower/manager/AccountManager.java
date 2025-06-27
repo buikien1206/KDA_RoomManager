@@ -1,32 +1,20 @@
 package com.kdatower.manager;
 
-import com.kdatower.model.Account;
-import com.kdatower.dao.AccountXML;
-import java.util.*;
+import com.kdatower.dao.AccountDAO;
 
 public class AccountManager {
-    private List<Account> accounts;
+    private final AccountDAO dao = new AccountDAO();
 
-    public AccountManager() {
-        accounts = AccountXML.readAccounts();
+    public boolean login(String u, String p) {
+        return dao.login(u, p);
     }
 
-    public boolean login(String username, String password) {
-        for (Account acc : accounts) {
-            if (acc.getUsername().equals(username) && acc.getPassword().equals(password)) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public boolean register(Account acc) {
-        for (Account a : accounts) {
-            if (a.getUsername().equals(acc.getUsername())) return false;
-        }
-        accounts.add(acc);
-        AccountXML.writeAccounts(accounts);
-        return true;
+    /** 
+     * Trả về true nếu chèn được tài khoản mới,
+     * false nếu username đã tồn tại (INSERT OR IGNORE chèn 0 dòng)
+     */
+    public boolean register(String u, String p) {
+        int inserted = dao.add(u, p);
+        return inserted > 0;
     }
 }
-
