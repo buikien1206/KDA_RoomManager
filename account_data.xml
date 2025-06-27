@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Accounts>
+    <Account>
+        <username>kien</username>
+        <password>123</password>
+    </Account>
+    <Account>
+        <username>test</username>
+        <password>789</password>
+    </Account>
+    <Account>
+        <username>hi</username>
+        <password>123</password>
+    </Account>
+    <Account>
+        <username>kienn</username>
+        <password>123</password>
+    </Account>
+    <Account>
+        <username>admin</username>
+        <password>admin</password>
+    </Account>
+    <Account>
+        <username>binbeo</username>
+        <password>123</password>
+    </Account>
+    <Account>
+        <username>chi2gao</username>
+        <password>buikiendz1221</password>
+    </Account>
+</Accounts>

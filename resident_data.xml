@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Residents>
+    <Resident>
+        <name>Giáp Duy Anh</name>
+        <gender>Nam</gender>
+        <dateOfBirth>2/4/2005</dateOfBirth>
+        <cccd>343243242</cccd>
+        <phone>02349032</phone>
+        <apartmentId>CH001</apartmentId>
+        <hometown>Băc Giang</hometown>
+        <householdBook>2312</householdBook>
+    </Resident>
+</Residents>

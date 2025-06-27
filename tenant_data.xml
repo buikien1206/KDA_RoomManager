@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tenants>
+    <Tenant>
+        <id>01</id>
+        <name>kien</name>
+        <gender>Nam</gender>
+        <roomId>304</roomId>
+    </Tenant>
+    <Tenant>
+        <id>02</id>
+        <name>Duy anh</name>
+        <gender>nữ</gender>
+        <roomId>303</roomId>
+    </Tenant>
+    <Tenant>
+        <id>02</id>
+        <name/>
+        <gender/>
+        <roomId/>
+    </Tenant>
+    <Tenant>
+        <id>02</id>
+        <name/>
+        <gender/>
+        <roomId/>
+    </Tenant>
+</Tenants>

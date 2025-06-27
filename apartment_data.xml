@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Apartments>
+    <Apartment>
+        <id>CH1234</id>
+        <owner>Duc</owner>
+        <area>43.0</area>
+        <building>A</building>
+        <floor>3</floor>
+        <status>Đã ở</status>
+        <numPeople>3</numPeople>
+        <dateIn>26/06/2023</dateIn>
+        <account>duc</account>
+    </Apartment>
+    <Apartment>
+        <id>CH1004</id>
+        <owner>Duy Anh</owner>
+        <area>34.0</area>
+        <building>B</building>
+        <floor>4</floor>
+        <status>Đã ở</status>
+        <numPeople>5</numPeople>
+        <dateIn>25/3/2025</dateIn>
+        <account>da</account>
+    </Apartment>
+    <Apartment>
+        <id>CH1003</id>
+        <owner>Kien</owner>
+        <area>90.0</area>
+        <building>E</building>
+        <floor>1</floor>
+        <status>Đã ở</status>
+        <numPeople>7</numPeople>
+        <dateIn>25/06/2005</dateIn>
+        <account>kien</account>
+    </Apartment>
+</Apartments>
